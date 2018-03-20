@@ -9,6 +9,7 @@ gem 'pry'
 gem 'will_paginate', '~>3.1.0'
 gem 'thin', '~>1.7.2'
 gem 'rack'
+gem 'rake'
 
 group :production do
   gem 'pg'

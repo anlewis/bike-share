@@ -75,6 +75,7 @@ GEM
       rack
     rack-test (0.6.3)
       rack (>= 1.0)
+    rake (12.3.0)
     rb-fsevent (0.10.2)
     rb-inotify (0.9.10)
       ffi (>= 0.5.0, < 2)
@@ -158,6 +159,7 @@ DEPENDENCIES
   pry
   rack
   rack-test
+  rake
   rspec
   rspec-core
   shotgun
